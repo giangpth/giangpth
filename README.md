@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giangpth. 
 - 👀 I’m interested in computational biology, bioinformatics and big data (especially some approximation algorithms)  
-- 🌱 I’m currently learning more about biology and how to use computer science to solve biology problems.
+- 🌱 I’m currently learning more about biology and how to use computer science to solve biology problems and also algorithms. 
 - 💞️ I’m looking to collaborate on computational biology and also apply machine learning in biology. Besides, I am also interested in algorithms so anything about algorithm.  
 - 📫 How to reach me giangphamtranhuong@gmail.com
 
